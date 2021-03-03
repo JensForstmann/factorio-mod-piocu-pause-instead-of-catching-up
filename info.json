@@ -1,0 +1,11 @@
+{
+    "name": "piocu-pause-instead-of-catching-up",
+    "author": "Yenz",
+    "version": "1.0.0",
+    "title": "PIOCU - Pause instead of catching up",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1.0"
+    ],
+    "homepage": "https://github.com/JensForstmann/pause-instead-of-catching-up"
+}
